@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/ishan-marikar/FishyBot",
   "dependencies": {
-    "irc": "^0.3.11"
+    "irc": "^0.5.2"
   },
   "devDependencies": {}
 }
